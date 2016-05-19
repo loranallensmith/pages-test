@@ -1,6 +1,6 @@
 {
   "name": "Pages-test",
   "tagline": "This is a GitHub Pages site",
-  "body": "# pages-test\r\nThis is a GitHub Pages site\r\n",
+  "body": "# pages-test\r\nThis is a GitHub Pages site\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VzuBJTtwm3o?list=PL0lo9MOBetEGVK0Hu_QrpRIWtR1TN_2HR\" frameborder=\"0\" allowfullscreen></iframe>\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
